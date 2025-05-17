@@ -19,4 +19,5 @@ The entire workflow was implemented in a Jupyter Notebook environment. Jupyter N
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/8da01f05-5b98-4cc0-967f-29f2553e33b2)
+![Image](https://github.com/user-attachments/assets/85157c4f-3dc2-4c2a-9511-863ee4bb70a2)
+![Image](https://github.com/user-attachments/assets/933810cc-57c3-4b18-a510-4128dae66ea9)
